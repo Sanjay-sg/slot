@@ -116,11 +116,11 @@ Execute the program
 </html>
 ```
 
-# OUPUT
-![OUTPUT](http://sanjayg.student.saveetha.in:8000/static/images/out.png?raw=true)
+# OUTPUT
+![OUTPUT](./out.png)
 
 # HTML VALIDATOR 
-![HTML VALIDATOR](http://sanjayg.student.saveetha.in:8000/static/images/vaild.png?raw=true)
+![HTML VALIDATOR](./vaild.png)
 
 # RESULT 
 The program for creating slot time table is completed successfully
